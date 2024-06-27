@@ -1,2 +1,2 @@
 # supreme-octo-succotash
-No one can accomplish everything, but everyone can do something.
+python code is used to plot the national flag of Bangladesh.
